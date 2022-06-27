@@ -78,7 +78,7 @@ export default function App() {
           <img src={logo} className="App-logo" alt="logo" />
           <h1>Area of Country : {geo.country_area} sq. km.</h1>
           <h1>City : {geo.city}</h1>
-          <h1>ContinenT Code : {geo.continent_code}</h1>
+          <h1>Continent Code : {geo.continent_code}</h1>
           <h1>Country Capital : {geo.country_capital}</h1>
           <h1>Country Code : {geo.country_code_iso3}</h1>
           <h1>Country Name : {geo.country_name}</h1>
